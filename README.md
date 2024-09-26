@@ -1,4 +1,4 @@
-## Image Slider Component
+## [Image Slider Component](https://hlaaessam.github.io/Slider/)
 
 The **Image Slider** component allows users to browse through a collection of images in an interactive and user-friendly way. The slider is designed to enhance the user experience by providing a seamless image viewing option. Below are the key features of the Image Slider.
 
