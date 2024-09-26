@@ -1,0 +1,47 @@
+figure {
+  overflow: hidden;
+}
+figure img {
+  cursor: pointer;
+}
+figcaption {
+  position: absolute;
+  background-color: white;
+  width: calc(100% - 20px);
+  left: 10px;
+  bottom: 0;
+  transform: translateY(100%);
+  transition: all 0.5s;
+}
+
+figure:hover figcaption {
+  transform: translateY(-10px);
+}
+
+.model {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.fa-angle-right {
+  right: 10px;
+}
+.fa-angle-right,
+.fa-angle-left {
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.fa-angle-left {
+  left: 10px;
+}
+
+.fa-xmark {
+  color: #fff;
+  top: 20px;
+  right: 20px;
+  font-size: 22px;
+  cursor: pointer;
+}
