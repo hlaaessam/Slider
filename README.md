@@ -2,6 +2,23 @@
 
 The **Image Slider** component allows users to browse through a collection of images in an interactive and user-friendly way. The slider is designed to enhance the user experience by providing a seamless image viewing option. Below are the key features of the Image Slider.
 
+<p align="center"><b>Check our Demo</b></p>
+
+<table align="center">
+        <thead>
+            <tr>
+                <th><a href="https://drive.google.com/file/d/1_E32N8Jy9HiJ0IZsHQHueheLrXSMcjyY/view?usp=drive_link">Demo</a></th>
+            </tr>
+        </thead>
+        <tbody>	
+          <tr>
+		  <th></th>
+	  </tr>
+        </tbody>
+    </table>
+
+<br><br>
+
 ### Features
 
 1. **Clickable Images**
